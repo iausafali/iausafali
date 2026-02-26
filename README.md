@@ -71,7 +71,7 @@
 
 #### 🐍 Activity Flow
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iausafali/iausafali/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/iausafali/iausafali/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
