@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/iausafali">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=BS+Data+Science+Student;C%2B%2B+Forensic+Architect;Automation+Specialist+(n8n);Logic+Driven.+Impact+Obsessed." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=BS+Data+Science+Student;C%2B%2B+Forensic+Architect;Automation+Specialist+(n8n);Logic+Driven.+Impact+Obsessed." alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,15 +37,16 @@
 ---
 
 ### 🔍 Project Spotlight: The Forensic Engine
+
 <p align="center">
   <a href="https://github.com/iausafali/forensic-code-stylometry">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=iausafali&repo=forensic-code-stylometry&theme=tokyonight&border_color=79ffad&show_owner=true" />
   </a>
 </p>
 
-> **The Science:** By mapping code to a multi-dimensional vector space, this engine identifies authors via **Euclidean Distance**. It’s where Data Science meets Systems Engineering.
-> 
-> $$Similarity = \left(1.0 - \frac{\sqrt{\sum (P_{1,i} - P_{2,i})^2}}{MaxDist}\right) \times 100$$
+> **The Science:** By mapping code to a multi-dimensional vector space, this engine identifies authors via **Euclidean Distance**. It's where Data Science meets Systems Engineering.
+
+$$Similarity = \left(1.0 - \frac{\sqrt{\sum (P_{1,i} - P_{2,i})^2}}{MaxDist}\right) \times 100$$
 
 ---
 
@@ -60,23 +61,26 @@
 ---
 
 ### 📈 Contribution Mastery
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iausafali&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iausafali&theme=tokyonight&hide_border=false&layout=compact" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iausafali&theme=tokyonight&hide_border=false&stroke=79ffad" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=iausafali&theme=tokyonight&hide_border=false&stroke=79ffad" width="100%" />
 </p>
 
 #### 🐍 Activity Flow
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iausafali/iausafali/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/iausafali/iausafali/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ### 🏆 Milestone Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=iausafali&theme=tokyonight&no-frame=false&margin-w=4" />
 </p>
@@ -84,13 +88,14 @@
 ---
 
 ### 🌐 Let's Build the Future
+
 <p align="center">
-<a href="https://instagram.com/iausafali">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:iausafaliofficial@proton.me">
-  <img src="https://img.shields.io/badge/PROTON_MAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
+  <a href="https://instagram.com/iausafali">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:iausafaliofficial@proton.me">
+    <img src="https://img.shields.io/badge/PROTON_MAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
